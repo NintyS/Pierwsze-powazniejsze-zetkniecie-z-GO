@@ -10,7 +10,7 @@ import ( // Importowanie jakiegoś shitpostu
 )
 
 func main() { // główna funckja
-	fmt.Println("Napsiz tytuł ksiąki") // Output
+	fmt.Println("Napisz tytuł ksiąki") // Output
 
 	var x string = "" // Zmienna string
 
